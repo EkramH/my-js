@@ -1,1 +1,1 @@
-# my-js
+# MY Js
