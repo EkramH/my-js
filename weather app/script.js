@@ -9,6 +9,11 @@ const searchTemperature = () => {
     .then(data => displayTemperature(data))
 }
 
+const setInnerText = (id, text) => {
+    document.getElementById(id).innerText = text;
+}
+
 const displayTemperature = temperature => {
+    setInnerText('city', temperature.name)
     console.log(temperature);
 }
