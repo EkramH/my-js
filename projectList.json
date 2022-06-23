@@ -1,0 +1,27 @@
+[
+    {
+        "index": 1,
+        "name": "Weather App",
+        "codeBase": "GitHub",
+        "urlLive": "https://tooth-care-fd1e3.web.app/",
+        "urlCode": "https:",
+        "bgColor": "bg-white"
+
+    },
+    {
+        "index": 2,
+        "name": "Random Color Generator (RGB)",
+        "codeBase": "GitHub",
+        "urlLive": "https:",
+        "urlCode": "https:/",
+        "bgColor": "bg-gray-100"
+    },
+    {
+        "index": 3,
+        "name": "ToDo List",
+        "codeBase": "GitHub",
+        "urlLive": "https:/",
+        "urlCode": "https:/",
+        "bgColor": "bg-white"
+    }
+]
