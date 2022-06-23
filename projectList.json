@@ -10,7 +10,7 @@
     },
     {
         "index": 2,
-        "name": "ToDo List",
+        "name": "To-Do List",
         "codeBase": "GitHub",
         "urlLive": "to-do-list/index.html",
         "urlCode": "https://github.com/EkramH/my-js/tree/main/to-do-list",
@@ -18,7 +18,7 @@
     },
     {
         "index": 3,
-        "name": "Weather-app",
+        "name": "Weather-App",
         "codeBase": "GitHub",
         "urlLive": "weather app/index.html",
         "urlCode": "https://github.com/EkramH/my-js/tree/main/weather%20app",
