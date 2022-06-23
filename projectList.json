@@ -1,27 +1,27 @@
 [
     {
         "index": 1,
-        "name": "Weather App",
+        "name": "Goribi-Bank",
         "codeBase": "GitHub",
-        "urlLive": "https://tooth-care-fd1e3.web.app/",
-        "urlCode": "https:",
+        "urlLive": "goribi-bank/index.html",
+        "urlCode": "https://github.com/EkramH/my-js/tree/main/goribi-bank",
         "bgColor": "bg-white"
 
     },
     {
         "index": 2,
-        "name": "Random Color Generator (RGB)",
+        "name": "ToDo List",
         "codeBase": "GitHub",
-        "urlLive": "https:",
-        "urlCode": "https:/",
+        "urlLive": "to-do-list/index.html",
+        "urlCode": "https://github.com/EkramH/my-js/tree/main/to-do-list",
         "bgColor": "bg-gray-100"
     },
     {
         "index": 3,
-        "name": "ToDo List",
+        "name": "Weather-app",
         "codeBase": "GitHub",
-        "urlLive": "https:/",
-        "urlCode": "https:/",
+        "urlLive": "weather app/index.html",
+        "urlCode": "https://github.com/EkramH/my-js/tree/main/weather%20app",
         "bgColor": "bg-white"
     }
 ]
