@@ -23,5 +23,13 @@
         "urlLive": "weather app/index.html",
         "urlCode": "https://github.com/EkramH/my-js/tree/main/weather%20app",
         "bgColor": "bg-white"
+    },
+    {
+        "index": 4,
+        "name": "Drum-Kit",
+        "codeBase": "GitHub",
+        "urlLive": "drum-kit/index.html",
+        "urlCode": "https://github.com/EkramH/my-js/tree/main/drum-kit",
+        "bgColor": "bg-gray-100"
     }
 ]
