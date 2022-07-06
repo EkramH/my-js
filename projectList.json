@@ -31,5 +31,13 @@
         "urlLive": "drum-kit/index.html",
         "urlCode": "https://github.com/EkramH/my-js/tree/main/drum-kit",
         "bgColor": "bg-gray-100"
+    },
+    {
+        "index": 5,
+        "name": "Update CSS With JS",
+        "codeBase": "GitHub",
+        "urlLive": "update/index.html",
+        "urlCode": "https://github.com/EkramH/my-js/tree/main/update",
+        "bgColor": "bg-white"
     }
 ]
