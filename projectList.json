@@ -39,5 +39,13 @@
         "urlLive": "update/index.html",
         "urlCode": "https://github.com/EkramH/my-js/tree/main/update",
         "bgColor": "bg-white"
+    },
+    {
+        "index": 6,
+        "name": "Search with type",
+        "codeBase": "GitHub",
+        "urlLive": "type-ahead/index.html",
+        "urlCode": "https://github.com/EkramH/my-js/tree/main/type-ahead",
+        "bgColor": "bg-gray-100"
     }
 ]
