@@ -4,11 +4,11 @@ html {
     font-family: 'helvetica neue';
     font-size: 20px;
     font-weight: 200;
-  }
+}
   
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
+*, *:before, *:after {
+  box-sizing: inherit;
+}
   
   input {
     width: 100%;
