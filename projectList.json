@@ -47,5 +47,13 @@
         "urlLive": "type-ahead/index.html",
         "urlCode": "https://github.com/EkramH/my-js/tree/main/type-ahead",
         "bgColor": "bg-gray-100"
+    },
+    {
+        "index": 7,
+        "name": "HTML Canvas",
+        "codeBase": "GitHub",
+        "urlLive": "type-ahead/html-canvas.html",
+        "urlCode": "https://github.com/EkramH/my-js/tree/main/html-canvas",
+        "bgColor": "bg-white"
     }
 ]
