@@ -52,7 +52,7 @@
         "index": 7,
         "name": "HTML Canvas",
         "codeBase": "GitHub",
-        "urlLive": "type-ahead/html-canvas.html",
+        "urlLive": "html-canvas/index.html",
         "urlCode": "https://github.com/EkramH/my-js/tree/main/html-canvas",
         "bgColor": "bg-white"
     }
