@@ -3,6 +3,12 @@ html {
     background: #9cd0d9;
 }
 
+h1 {
+    text-align: center;
+    font-family: 'helvetica neue';
+    text-shadow: 4px 2px 0 rgba(0, 0, 0, 0.1);
+}
+
 .inbox {
     max-width: 400px;
     margin: 50px auto;

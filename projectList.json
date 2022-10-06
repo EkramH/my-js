@@ -55,5 +55,13 @@
         "urlLive": "html-canvas/index.html",
         "urlCode": "https://github.com/EkramH/my-js/tree/main/html-canvas",
         "bgColor": "bg-white"
+    },
+    {
+        "index": 8,
+        "name": "Multiple Checkbox",
+        "codeBase": "GitHub",
+        "urlLive": "multi-checkbox/index.html",
+        "urlCode": "https://github.com/EkramH/my-js/tree/main/multi-checkbox",
+        "bgColor": "bg-gray-100"
     }
 ]
